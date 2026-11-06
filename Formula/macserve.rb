@@ -1,11 +1,11 @@
 # Rendered by checks/homebrew-formula from assets/homebrew/macserve.rb.tmpl
-# for v0.1.33. Do not edit by hand: copy the release asset into the tap.
+# for v0.1.35. Do not edit by hand: copy the release asset into the tap.
 class Macserve < Formula
   desc "Hardened GitHub Actions runner service for a Mac"
   homepage "https://github.com/jerryfane/macserve"
-  url "https://github.com/jerryfane/macserve/releases/download/v0.1.33/macserve-darwin-arm64"
-  version "0.1.33"
-  sha256 "aab7406280497025dd36c9763e71d860e75eb01dac42898889a6cabce2d583dd"
+  url "https://github.com/jerryfane/macserve/releases/download/v0.1.35/macserve-darwin-arm64"
+  version "0.1.35"
+  sha256 "f18761f622c2b249ee9344e2a77a83cee0f20cc4a7fdd90e97df8b76fc1b296a"
   license "Apache-2.0"
 
   depends_on arch: :arm64
